@@ -5,7 +5,7 @@ import {Outlet} from 'react-router-dom'
 
 function Accounts(props) {
 
-    const viewHeight = window.outerHeight
+    // const viewheight = window.outerHeight
     return ( 
 
 <>

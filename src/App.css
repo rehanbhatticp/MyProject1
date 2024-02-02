@@ -68,7 +68,7 @@
 
 .comp{
   float:right;
-  background: lightgreen;
+  background: rgb(240, 241, 240);
   width:80%;
   padding: 2%;
   height: calc(100vh - 0px);
